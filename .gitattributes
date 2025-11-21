@@ -1,0 +1,2 @@
+*.cab filter=lfs diff=lfs merge=lfs -text
+*.spkg filter=lfs diff=lfs merge=lfs -text
