@@ -7,7 +7,7 @@ This is simply an automatic script that follows this tutorial: https://www.youtu
 **Prerequisites**
 To be able to use this script you must have:
 1. The dotnet runtime installed. You can find that here: https://dotnet.microsoft.com/en-us/download
-2. The Windows Phone common packaging tools. You can find their installer here: https://mega.nz/file/7I5GyDTJ#P_-fRVi3oQsfsVecLD_6w5FLH5xhVFDS7AEC9V73qgA
+2. The Windows Phone common packaging tools. You can find the installer here: https://mega.nz/file/7I5GyDTJ#P_-fRVi3oQsfsVecLD_6w5FLH5xhVFDS7AEC9V73qgA
 
 **Usage**
 1. Clone or download and extract the repo
