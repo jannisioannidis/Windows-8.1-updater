@@ -12,18 +12,21 @@ To be able to use this script you must have:
 4. Git lfs. Should be automatically installed with git for Windows. If not get it through the chocolatey package manager: https://chocolatey.org/
 
 **Usage**
-1. Clone the repo
+1. Open command prompt
+
+2. Clone the repo
 `git clone https://github.com/jannisioannidis/Windows-8.1-updater.git`
 
-2. Install lfs
+3. Install lfs
 `git lfs install`
 
-3. Pull the larger lfs files
+4. Pull the larger lfs files
 `cd Windows-8.1-updater`
 `git lfs pull`
 
-4. Connect your phone to your computer
+5. Connect your phone to your computer
 
-5. Run the update.bat file
+6. Run the update.bat file
 `update.bat`
-6. Open your phone's update page in setttings and install the update!
+
+7. Open your phone's update page in setttings and install the update!
