@@ -14,7 +14,7 @@ To be able to use this script you must have:
 **Usage**
 1. Open command prompt
 
-2. Clone the repo
+2. Clone the repo to your the root of your C Drive
 `git clone https://github.com/jannisioannidis/Windows-8.1-updater.git`
 
 3. Install lfs
