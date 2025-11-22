@@ -30,3 +30,7 @@ To be able to use this script you must have:
 `update.bat`
 
 7. Open your phone's update page in setttings and install the update!
+
+**Credits**
+Much thanks to Empyreal96 for the wpcabfilter program: https://github.com/Empyreal96/WPCabFilter
+Also much thanks to the W10MGroup for this tutorial on which this script is based on: https://www.youtube.com/watch?v=xSK-RiMDenM
