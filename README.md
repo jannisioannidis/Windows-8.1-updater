@@ -14,11 +14,14 @@ To be able to use this script you must have:
 **Usage**
 1. Clone the repo
 `git clone https://github.com/jannisioannidis/Windows-8.1-updater.git`
-2.Install lfs
+
+2. Install lfs
 `git lfs install`
+
 3. Pull the larger lfs files
 `cd Windows-8.1-updater`
 `git lfs pull`
+
 4. Connect your phone to your computer
 
 5. Run the update.bat file
